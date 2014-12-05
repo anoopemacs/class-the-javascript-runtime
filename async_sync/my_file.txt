@@ -1,0 +1,2 @@
+This is some file that we'll open asynchronously using
+nodejs.
